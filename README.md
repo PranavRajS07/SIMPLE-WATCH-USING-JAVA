@@ -1,5 +1,4 @@
-# SIMPLE-WATCH-USING-JAVA
-
+# SIMPLE-JAVA-WATCH-
 This is a SIMPLE SOFTWARE BASED WATCH built with JAVA language with added features like DATE, DAY, STOPWATCH and ALARM.
 
 In these files, the file MAIN.java is the Main file which has to be executed. It's the Main or control file of FRAME.java.
